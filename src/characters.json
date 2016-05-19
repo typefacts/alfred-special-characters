@@ -1,0 +1,497 @@
+{"items": [
+  {
+    "title": "≈\talmost equal to sign\n math almost equal",
+    "subtitle": "U+2248",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "≈",
+    "text": {
+      "copy": "≈"
+    }
+  },
+  {
+    "title": "’\tapostrophe (the only correct one)\n ",
+    "subtitle": "U+2019",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "’",
+    "text": {
+      "copy": "’"
+    }
+  },
+  {
+    "title": "⌘\tApple Command Key\n apple command key",
+    "subtitle": "U+2318",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "⌘",
+    "text": {
+      "copy": "⌘"
+    }
+  },
+  {
+    "title": "⎋\tApple Escape Key\n apple escape key",
+    "subtitle": "U+238B",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "⎋",
+    "text": {
+      "copy": "⎋"
+    }
+  },
+  {
+    "title": "⌥\tApple Option (Alt) Key\n apple option key",
+    "subtitle": "U+2325",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "⌥",
+    "text": {
+      "copy": "⌥"
+    }
+  },
+  {
+    "title": "⇧\tApple Shift Key\n apple shift key",
+    "subtitle": "U+21E7",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "⇧",
+    "text": {
+      "copy": "⇧"
+    }
+  },
+  {
+    "title": "•\tbold interpunct\n bold interpunct middot centered dot",
+    "subtitle": "U+2022",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "•",
+    "text": {
+      "copy": "•"
+    }
+  },
+  {
+    "title": "℅\tc/o\n care of c o correspondence",
+    "subtitle": "U+2105",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "℅",
+    "text": {
+      "copy": "℅"
+    }
+  },
+  {
+    "title": "÷\tdivision sign\n math division",
+    "subtitle": "U+00F7",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "÷",
+    "text": {
+      "copy": "÷"
+    }
+  },
+  {
+    "title": "″\tdouble prime\n inch arcsecond second",
+    "subtitle": "U+2033",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "″",
+    "text": {
+      "copy": "″"
+    }
+  },
+  {
+    "title": "↓\tdown arrow\n ",
+    "subtitle": "U+2193",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "↓",
+    "text": {
+      "copy": "↓"
+    }
+  },
+  {
+    "title": "“\tEnglish double quote left\n English double quote left",
+    "subtitle": "U+201C",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "“",
+    "text": {
+      "copy": "“"
+    }
+  },
+  {
+    "title": "”\tEnglish double quote right\n English double quote right",
+    "subtitle": "U+201D",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "”",
+    "text": {
+      "copy": "”"
+    }
+  },
+  {
+    "title": "‘\tEnglish single quote left\n English single quote left",
+    "subtitle": "U+2018",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‘",
+    "text": {
+      "copy": "‘"
+    }
+  },
+  {
+    "title": "’\tEnglish single quote right\n English single quote right",
+    "subtitle": "U+2019",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "’",
+    "text": {
+      "copy": "’"
+    }
+  },
+  {
+    "title": "=\tequal sign\n math equal",
+    "subtitle": "U+003D",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "=",
+    "text": {
+      "copy": "="
+    }
+  },
+  {
+    "title": "„\tGerman double quote left\n German double quote left",
+    "subtitle": "U+201E",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "„",
+    "text": {
+      "copy": "„"
+    }
+  },
+  {
+    "title": "“\tGerman double quote right\n German double quote right",
+    "subtitle": "U+201C",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "“",
+    "text": {
+      "copy": "“"
+    }
+  },
+  {
+    "title": "‚\tGerman single quote left\n German single quote left",
+    "subtitle": "U+201A",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‚",
+    "text": {
+      "copy": "‚"
+    }
+  },
+  {
+    "title": "‘\tGerman single quote right\n German single quote right",
+    "subtitle": "U+2018",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‘",
+    "text": {
+      "copy": "‘"
+    }
+  },
+  {
+    "title": "…\thorizontal ellipsis\n three dots leader",
+    "subtitle": "U+22EE",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "…",
+    "text": {
+      "copy": "…"
+    }
+  },
+  {
+    "title": "·\tinterpunct\n interpunct middot centered dot",
+    "subtitle": "U+2219",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "·",
+    "text": {
+      "copy": "·"
+    }
+  },
+  {
+    "title": "‽\tinterrobang\n question exclamation ? !",
+    "subtitle": "U+203D",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‽",
+    "text": {
+      "copy": "‽"
+    }
+  },
+  {
+    "title": "¡\tinverted exclamation mark\n inverted exclamation",
+    "subtitle": "U+00A1",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "¡",
+    "text": {
+      "copy": "¡"
+    }
+  },
+  {
+    "title": "⸘\tinverted interrobang\n inverted question exclamation ¿ ¡",
+    "subtitle": "U+2E18",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "⸘",
+    "text": {
+      "copy": "⸘"
+    }
+  },
+  {
+    "title": "¿\tinverted question mark\n inverted question ",
+    "subtitle": "U+00BF",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "¿",
+    "text": {
+      "copy": "¿"
+    }
+  },
+  {
+    "title": "←\tleft arrow\n ",
+    "subtitle": "U+2190",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "←",
+    "text": {
+      "copy": "←"
+    }
+  },
+  {
+    "title": "ſ\tlong s\n latin small letter long s",
+    "subtitle": "U+017F",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "ſ",
+    "text": {
+      "copy": "ſ"
+    }
+  },
+  {
+    "title": "×\tmultiplication sign\n math times multiply",
+    "subtitle": "U+00D7",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "×",
+    "text": {
+      "copy": "×"
+    }
+  },
+  {
+    "title": "\tnon-breaking space\n  ",
+    "subtitle": "U+00A0",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": " ",
+    "text": {
+      "copy": " "
+    }
+  },
+  {
+    "title": "≠\tnot equal to sign\n math not equal",
+    "subtitle": "U+2260",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "≠",
+    "text": {
+      "copy": "≠"
+    }
+  },
+  {
+    "title": "½\tone half\n math fraction 1 2",
+    "subtitle": "U+00BD",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "½",
+    "text": {
+      "copy": "½"
+    }
+  },
+  {
+    "title": "¼\tone quarter\n math fraction 1 4",
+    "subtitle": "U+00BC",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "¼",
+    "text": {
+      "copy": "¼"
+    }
+  },
+  {
+    "title": "π\tpi sign\n math greek pi",
+    "subtitle": "U+03c0",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "π",
+    "text": {
+      "copy": "π"
+    }
+  },
+  {
+    "title": "+\tplus sign\n math plus addition",
+    "subtitle": "U+002B",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "+",
+    "text": {
+      "copy": "+"
+    }
+  },
+  {
+    "title": "→\tright arrow\n ",
+    "subtitle": "U+2192",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "→",
+    "text": {
+      "copy": "→"
+    }
+  },
+  {
+    "title": "′\tsingle prime\n foot feet arcminute minute",
+    "subtitle": "U+2032",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "′",
+    "text": {
+      "copy": "′"
+    }
+  },
+  {
+    "title": "★\tstar filled\n ",
+    "subtitle": "U+2605",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "★",
+    "text": {
+      "copy": "★"
+    }
+  },
+  {
+    "title": "☆\tstar outline\n ",
+    "subtitle": "U+2606",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "☆",
+    "text": {
+      "copy": "☆"
+    }
+  },
+  {
+    "title": "³\tsuperior three\n 3",
+    "subtitle": "U+00B3",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "³",
+    "text": {
+      "copy": "³"
+    }
+  },
+  {
+    "title": "²\tsuperior two\n 2",
+    "subtitle": "U+00B2",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "²",
+    "text": {
+      "copy": "²"
+    }
+  },
+  {
+    "title": "¾\tthree quarters\n math fraction 3 4",
+    "subtitle": "U+00BE",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "¾",
+    "text": {
+      "copy": "¾"
+    }
+  },
+  {
+    "title": "‴\ttriple prime\n ",
+    "subtitle": "U+2034",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‴",
+    "text": {
+      "copy": "‴"
+    }
+  },
+  {
+    "title": "↑\tup arrow\n ",
+    "subtitle": "U+2191",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "↑",
+    "text": {
+      "copy": "↑"
+    }
+  },
+  {
+    "title": "​ \tzero-width space\n zwsp space",
+    "subtitle": "U+200B",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "​",
+    "text": {
+      "copy": "​"
+    }
+  }
+]}
