@@ -8,6 +8,18 @@
     "arg": "≈",
     "text": {
       "copy": "≈"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2248",
+            "subtitle": "\\u2248 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&asymp;",
+            "subtitle": "&asymp; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -19,6 +31,18 @@
     "arg": "’",
     "text": {
       "copy": "’"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2019",
+            "subtitle": "\\u2019 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&rsquo;",
+            "subtitle": "&rsquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -30,6 +54,18 @@
     "arg": "⌘",
     "text": {
       "copy": "⌘"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2318",
+            "subtitle": "\\u2318 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2318;",
+            "subtitle": "&#x2318; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -41,6 +77,18 @@
     "arg": "⎋",
     "text": {
       "copy": "⎋"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u238b",
+            "subtitle": "\\u238b → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x238b;",
+            "subtitle": "&#x238b; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -52,6 +100,18 @@
     "arg": "⌥",
     "text": {
       "copy": "⌥"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2325",
+            "subtitle": "\\u2325 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2325;",
+            "subtitle": "&#x2325; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -63,6 +123,18 @@
     "arg": "⇧",
     "text": {
       "copy": "⇧"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u21e7",
+            "subtitle": "\\u21e7 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x21e7;",
+            "subtitle": "&#x21e7; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -74,6 +146,18 @@
     "arg": "•",
     "text": {
       "copy": "•"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2022",
+            "subtitle": "\\u2022 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&bull;",
+            "subtitle": "&bull; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -85,6 +169,18 @@
     "arg": "℅",
     "text": {
       "copy": "℅"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2105",
+            "subtitle": "\\u2105 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2105;",
+            "subtitle": "&#x2105; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -96,6 +192,18 @@
     "arg": "÷",
     "text": {
       "copy": "÷"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00f7",
+            "subtitle": "\\u00f7 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&divide;",
+            "subtitle": "&divide; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -107,6 +215,18 @@
     "arg": "″",
     "text": {
       "copy": "″"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2033",
+            "subtitle": "\\u2033 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&Prime;",
+            "subtitle": "&Prime; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -118,6 +238,18 @@
     "arg": "↓",
     "text": {
       "copy": "↓"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2193",
+            "subtitle": "\\u2193 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&darr;",
+            "subtitle": "&darr; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -129,6 +261,18 @@
     "arg": "“",
     "text": {
       "copy": "“"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u201c",
+            "subtitle": "\\u201c → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&ldquo;",
+            "subtitle": "&ldquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -140,6 +284,18 @@
     "arg": "”",
     "text": {
       "copy": "”"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u201d",
+            "subtitle": "\\u201d → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&rdquo;",
+            "subtitle": "&rdquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -151,6 +307,18 @@
     "arg": "‘",
     "text": {
       "copy": "‘"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2018",
+            "subtitle": "\\u2018 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&lsquo;",
+            "subtitle": "&lsquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -162,6 +330,18 @@
     "arg": "’",
     "text": {
       "copy": "’"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2019",
+            "subtitle": "\\u2019 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&rsquo;",
+            "subtitle": "&rsquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -173,6 +353,18 @@
     "arg": "=",
     "text": {
       "copy": "="
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u003d",
+            "subtitle": "\\u003d → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x003d",
+            "subtitle": "&#x003d → Copy HTML Entity"
+        }
     }
   },
   {
@@ -184,6 +376,18 @@
     "arg": "„",
     "text": {
       "copy": "„"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u201e",
+            "subtitle": "\\u201e → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&bdquo;",
+            "subtitle": "&bdquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -195,6 +399,18 @@
     "arg": "“",
     "text": {
       "copy": "“"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u201c",
+            "subtitle": "\\u201c → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&ldquo;",
+            "subtitle": "&ldquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -206,6 +422,18 @@
     "arg": "‚",
     "text": {
       "copy": "‚"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u201a",
+            "subtitle": "\\u201a → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&sbquo;",
+            "subtitle": "&sbquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -217,6 +445,18 @@
     "arg": "‘",
     "text": {
       "copy": "‘"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2018",
+            "subtitle": "\\u2018 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&lsquo;",
+            "subtitle": "&lsquo; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -228,6 +468,18 @@
     "arg": "…",
     "text": {
       "copy": "…"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2026",
+            "subtitle": "\\u2026 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&hellip;",
+            "subtitle": "&hellip; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -239,6 +491,18 @@
     "arg": "·",
     "text": {
       "copy": "·"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00b7",
+            "subtitle": "\\u00b7 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&middot;",
+            "subtitle": "&middot; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -250,6 +514,18 @@
     "arg": "‽",
     "text": {
       "copy": "‽"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u203d",
+            "subtitle": "\\u203d → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x203d;",
+            "subtitle": "&#x203d; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -261,6 +537,18 @@
     "arg": "¡",
     "text": {
       "copy": "¡"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00a1",
+            "subtitle": "\\u00a1 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&iexcl;",
+            "subtitle": "&iexcl; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -272,6 +560,18 @@
     "arg": "⸘",
     "text": {
       "copy": "⸘"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2e18",
+            "subtitle": "\\u2e18 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2e18;",
+            "subtitle": "&#x2e18; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -283,6 +583,18 @@
     "arg": "¿",
     "text": {
       "copy": "¿"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00bf",
+            "subtitle": "\\u00bf → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&iquest;",
+            "subtitle": "&iquest; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -294,6 +606,18 @@
     "arg": "←",
     "text": {
       "copy": "←"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2190",
+            "subtitle": "\\u2190 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&larr;",
+            "subtitle": "&larr; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -305,6 +629,41 @@
     "arg": "ſ",
     "text": {
       "copy": "ſ"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u017f",
+            "subtitle": "\\u017f → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x17f;",
+            "subtitle": "&#x17f; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "−\tminus sign\n math minus subtraction",
+    "subtitle": "U+2212",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "−",
+    "text": {
+      "copy": "−"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2212",
+            "subtitle": "\\u2212 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&minus;",
+            "subtitle": "&minus; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -316,10 +675,22 @@
     "arg": "×",
     "text": {
       "copy": "×"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00d7",
+            "subtitle": "\\u00d7 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&times;",
+            "subtitle": "&times; → Copy HTML Entity"
+        }
     }
   },
   {
-    "title": "\tnon-breaking space\n  ",
+    "title": " \tnon-breaking space\n  ",
     "subtitle": "U+00A0",
     "icon": {
       "path": "empty.png"
@@ -327,6 +698,18 @@
     "arg": " ",
     "text": {
       "copy": " "
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00A0",
+            "subtitle": "\\u00A0 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&nbsp;",
+            "subtitle": "&nbsp; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -338,6 +721,18 @@
     "arg": "≠",
     "text": {
       "copy": "≠"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2260",
+            "subtitle": "\\u2260 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&ne;",
+            "subtitle": "&ne; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -349,6 +744,18 @@
     "arg": "½",
     "text": {
       "copy": "½"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00bd",
+            "subtitle": "\\u00bd → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&frac12;",
+            "subtitle": "&frac12; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -360,6 +767,18 @@
     "arg": "¼",
     "text": {
       "copy": "¼"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00bc",
+            "subtitle": "\\u00bc → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&frac14;",
+            "subtitle": "&frac14; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -371,6 +790,18 @@
     "arg": "π",
     "text": {
       "copy": "π"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u03c0",
+            "subtitle": "\\u03c0 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&pi;",
+            "subtitle": "&pi; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -382,6 +813,18 @@
     "arg": "+",
     "text": {
       "copy": "+"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u002B",
+            "subtitle": "\\u002B → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x002b;",
+            "subtitle": "&#x002b; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -393,6 +836,18 @@
     "arg": "→",
     "text": {
       "copy": "→"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2192",
+            "subtitle": "\\u2192 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&rarr;",
+            "subtitle": "&rarr; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -404,6 +859,18 @@
     "arg": "′",
     "text": {
       "copy": "′"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2032",
+            "subtitle": "\\u2032 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&prime;",
+            "subtitle": "&prime; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -415,6 +882,18 @@
     "arg": "★",
     "text": {
       "copy": "★"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2605",
+            "subtitle": "\\u2605 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2605;",
+            "subtitle": "&#x2605; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -426,6 +905,18 @@
     "arg": "☆",
     "text": {
       "copy": "☆"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2606",
+            "subtitle": "\\u2606 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2606;",
+            "subtitle": "&#x2606; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -437,6 +928,18 @@
     "arg": "³",
     "text": {
       "copy": "³"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00b3",
+            "subtitle": "\\u00b3 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&sup3;",
+            "subtitle": "&sup3; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -448,6 +951,18 @@
     "arg": "²",
     "text": {
       "copy": "²"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00b2",
+            "subtitle": "\\u00b2 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&sup2;",
+            "subtitle": "&sup2; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -459,6 +974,18 @@
     "arg": "¾",
     "text": {
       "copy": "¾"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00be",
+            "subtitle": "\\u00be → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&frac34;",
+            "subtitle": "&frac34; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -470,6 +997,18 @@
     "arg": "‴",
     "text": {
       "copy": "‴"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2034",
+            "subtitle": "\\u2034 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2034;",
+            "subtitle": "&#x2034; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -481,6 +1020,18 @@
     "arg": "↑",
     "text": {
       "copy": "↑"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2191",
+            "subtitle": "\\u2191 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&uarr;",
+            "subtitle": "&uarr; → Copy HTML Entity"
+        }
     }
   },
   {
@@ -489,9 +1040,21 @@
     "icon": {
       "path": "empty.png"
     },
-    "arg": "​",
+    "arg": "&#8203;​",
     "text": {
-      "copy": "​"
+      "copy": "\u200b"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u200b",
+            "subtitle": "\\u200b → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x200b;",
+            "subtitle": "&#x200b; → Copy HTML Entity"
+        }
     }
   }
 ]}
