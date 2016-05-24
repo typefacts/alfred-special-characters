@@ -1035,6 +1035,75 @@
     }
   },
   {
+    "title": "™\ttrade mark sign\n trade mark ™",
+    "subtitle": "U+2122",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "™",
+    "text": {
+      "copy": "™"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2122",
+            "subtitle": "\\u2122 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&trade;",
+            "subtitle": "&trade; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "®\tregistered sign\n registered sign ®",
+    "subtitle": "U+00AE",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "®",
+    "text": {
+      "copy": "®"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00AE",
+            "subtitle": "\\u00AE → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&reg;",
+            "subtitle": "&reg; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "⸮\treversed question mark\n reversed question ⸮",
+    "subtitle": "U+2E2E",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "⸮",
+    "text": {
+      "copy": "⸮"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2E2E",
+            "subtitle": "\\u2E2E → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#11822;",
+            "subtitle": "&#x2e2e; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
     "title": "​ \tzero-width space\n zwsp space",
     "subtitle": "U+200B",
     "icon": {
