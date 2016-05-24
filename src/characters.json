@@ -506,7 +506,7 @@
     }
   },
   {
-    "title": "‽\tinterrobang\n question exclamation ? !",
+    "title": "‽\tinterrobang\n question exclamation interrobang ? !",
     "subtitle": "U+203D",
     "icon": {
       "path": "empty.png"
