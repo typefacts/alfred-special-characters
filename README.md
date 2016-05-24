@@ -11,5 +11,5 @@ This workflow gives you access to these characters and pastes them right into yo
 ---
 
 ### This workflow was built by:
-Norman Posselt (@norman_posselt)  
+Norman Posselt ([@norman_posselt](https://twitter.com/norman_posselt))  
 Frank Rausch (@frankrausch)
