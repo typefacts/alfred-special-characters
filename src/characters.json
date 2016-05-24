@@ -64,7 +64,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x2318;",
-            "subtitle": "&#x2318; → Copy HTML Entity"
+            "subtitle": "&#x2318; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -87,7 +87,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x238b;",
-            "subtitle": "&#x238b; → Copy HTML Entity"
+            "subtitle": "&#x238b; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -110,7 +110,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x2325;",
-            "subtitle": "&#x2325; → Copy HTML Entity"
+            "subtitle": "&#x2325; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -133,7 +133,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x21e7;",
-            "subtitle": "&#x21e7; → Copy HTML Entity"
+            "subtitle": "&#x21e7; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -179,7 +179,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x2105;",
-            "subtitle": "&#x2105; → Copy HTML Entity"
+            "subtitle": "&#x2105; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -363,7 +363,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x003d",
-            "subtitle": "&#x003d → Copy HTML Entity"
+            "subtitle": "&#x003d → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -524,7 +524,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x203d;",
-            "subtitle": "&#x203d; → Copy HTML Entity"
+            "subtitle": "&#x203d; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -570,7 +570,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x2e18;",
-            "subtitle": "&#x2e18; → Copy HTML Entity"
+            "subtitle": "&#x2e18; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -639,7 +639,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x17f;",
-            "subtitle": "&#x17f; → Copy HTML Entity"
+            "subtitle": "&#x17f; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -823,7 +823,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x002b;",
-            "subtitle": "&#x002b; → Copy HTML Entity"
+            "subtitle": "&#x002b; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -892,7 +892,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x2605;",
-            "subtitle": "&#x2605; → Copy HTML Entity"
+            "subtitle": "&#x2605; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -915,7 +915,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x2606;",
-            "subtitle": "&#x2606; → Copy HTML Entity"
+            "subtitle": "&#x2606; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -1007,7 +1007,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x2034;",
-            "subtitle": "&#x2034; → Copy HTML Entity"
+            "subtitle": "&#x2034; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -1053,7 +1053,7 @@
         "cmd": {
             "valid": true,
             "arg": "&#x200b;",
-            "subtitle": "&#x200b; → Copy HTML Entity"
+            "subtitle": "&#x200b; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   }
