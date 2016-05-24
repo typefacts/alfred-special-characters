@@ -6,7 +6,7 @@ Many special characters needed for good typography are hard to find, some are no
 
 This workflow gives you access to these characters and pastes them right into your current application.
 
-([Special Characters — An Alfred App Workflow on www.typefacts.com](http://typefacts.com/news/special-characters-an-alfred-app-workflow)) 
+[Special Characters — An Alfred App Workflow on www.typefacts.com](http://typefacts.com/news/special-characters-an-alfred-app-workflow)
 
 ---
 
