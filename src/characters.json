@@ -1150,71 +1150,25 @@
     }
   },
   {
-    "title": "¤\t currency sign\n currency sign ¤",
-    "subtitle": "U+00A4",
+    "title": "฿\t baht sign\n baht sign thai currency ฿",
+    "subtitle": "U+0E3F",
     "icon": {
       "path": "empty.png"
     },
-    "arg": "¤",
+    "arg": "฿",
     "text": {
-      "copy": "¤"
+      "copy": "฿"
     },
     "mods": {
         "alt": {
             "valid": true,
-            "arg": "\\u0024",
-            "subtitle": "\\u0024 → Copy Hex Unicode"
+            "arg": "\\u0E3F",
+            "subtitle": "\\u0E3F → Copy Hex Unicode"
         },
         "cmd": {
             "valid": true,
-            "arg": "&curren;",
-            "subtitle": "&curren; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "€\t euro sign\n euro sign currency €",
-    "subtitle": "U+20A0",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "€",
-    "text": {
-      "copy": "€"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u20A0",
-            "subtitle": "\\u20A0 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&euro;",
-            "subtitle": "&euro; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "$\t dollar sign\n dollar sign currency $",
-    "subtitle": "U+0024",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "$",
-    "text": {
-      "copy": "$"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u0024",
-            "subtitle": "\\u0024 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x24;",
-            "subtitle": "&#x24; → Copy HTML Numeric Character Reference (Hex)"
+            "arg": "&#xe3f;",
+            "subtitle": "&#xe3f; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
@@ -1242,25 +1196,71 @@
     }
   },
   {
-    "title": "£\t pound sign\n pound sign currency £",
-    "subtitle": "U+00A3",
+    "title": "¤\t currency sign\n currency sign ¤",
+    "subtitle": "U+00A4",
     "icon": {
       "path": "empty.png"
     },
-    "arg": "£",
+    "arg": "¤",
     "text": {
-      "copy": "£"
+      "copy": "¤"
     },
     "mods": {
         "alt": {
             "valid": true,
-            "arg": "\\u00A3",
-            "subtitle": "\\u00A3 → Copy Hex Unicode"
+            "arg": "\\u0024",
+            "subtitle": "\\u0024 → Copy Hex Unicode"
         },
         "cmd": {
             "valid": true,
-            "arg": "&pound;",
-            "subtitle": "&pound; → Copy HTML Entity"
+            "arg": "&curren;",
+            "subtitle": "&curren; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "$\t dollar sign\n dollar sign currency $",
+    "subtitle": "U+0024",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "$",
+    "text": {
+      "copy": "$"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u0024",
+            "subtitle": "\\u0024 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x24;",
+            "subtitle": "&#x24; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "€\t euro sign\n euro sign currency €",
+    "subtitle": "U+20A0",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "€",
+    "text": {
+      "copy": "€"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u20A0",
+            "subtitle": "\\u20A0 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&euro;",
+            "subtitle": "&euro; → Copy HTML Entity"
         }
     }
   },
@@ -1284,6 +1284,52 @@
             "valid": true,
             "arg": "&fnof;",
             "subtitle": "&fnof; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "£\t pound sign\n pound sign currency £",
+    "subtitle": "U+00A3",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "£",
+    "text": {
+      "copy": "£"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00A3",
+            "subtitle": "\\u00A3 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&pound;",
+            "subtitle": "&pound; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "₺\t turkish lira sign\n turkish lira sign currency ₺",
+    "subtitle": "U+20BA",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "₺",
+    "text": {
+      "copy": "₺"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u20BA",
+            "subtitle": "\\u20BA → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x20ba;",
+            "subtitle": "&#x20ba; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
