@@ -1,6 +1,6 @@
 ## Typefacts Special Characters Workflow for Alfred 3
 
-![](http://typefacts.com/wordpress/wp-content/themes/barthelme/images/_uploads/01.jpg "Screenshot of Typefacts Special Characters Workflow for Alfred 3")
+![](http://typefacts.com/wordpress/wp-content/themes/barthelme/images/_uploads/01-github.jpg "Screenshot of Typefacts Special Characters Workflow for Alfred 3")
 
 Many special characters needed for good typography are hard to find, some are not even available on the keyboard at all.
 
