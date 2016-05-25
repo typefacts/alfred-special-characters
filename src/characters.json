@@ -1127,6 +1127,190 @@
     }
   },
   {
+    "title": "✓\t check mark\n check mark sign ✓",
+    "subtitle": "U+2713",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "✓",
+    "text": {
+      "copy": "✓"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2713",
+            "subtitle": "\\u2713 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2713;",
+            "subtitle": "&#x2713; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "¤\t currency sign\n currency sign ¤",
+    "subtitle": "U+00A4",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "¤",
+    "text": {
+      "copy": "¤"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u0024",
+            "subtitle": "\\u0024 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&curren;",
+            "subtitle": "&curren; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "€\t euro sign\n euro sign currency €",
+    "subtitle": "U+20A0",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "€",
+    "text": {
+      "copy": "€"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u20A0",
+            "subtitle": "\\u20A0 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&euro;",
+            "subtitle": "&euro; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "$\t dollar sign\n dollar sign currency $",
+    "subtitle": "U+0024",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "$",
+    "text": {
+      "copy": "$"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u0024",
+            "subtitle": "\\u0024 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x24;",
+            "subtitle": "&#x24; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "¢\t cent sign\n cent sign currency ¢",
+    "subtitle": "U+00A2",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "¢",
+    "text": {
+      "copy": "¢"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00A2",
+            "subtitle": "\\u00A2 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&cent;",
+            "subtitle": "&cent; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "£\t pound sign\n pound sign currency £",
+    "subtitle": "U+00A3",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "£",
+    "text": {
+      "copy": "£"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00A3",
+            "subtitle": "\\u00A3 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&pound;",
+            "subtitle": "&pound; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "ƒ\t florin sign\n florin sign currency ƒ",
+    "subtitle": "U+0192",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "ƒ",
+    "text": {
+      "copy": "ƒ"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u0192",
+            "subtitle": "\\u0192 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&fnof;",
+            "subtitle": "&fnof; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "¥\t yen sign\n yen sign ¥",
+    "subtitle": "U+00A5",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "¥",
+    "text": {
+      "copy": "¥"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00A5",
+            "subtitle": "\\u00A5 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&yen;",
+            "subtitle": "&yen; → Copy HTML Entity"
+        }
+    }
+  },
+  {
     "title": "​ \t zero-width space\n zwsp space",
     "subtitle": "U+200B",
     "icon": {
