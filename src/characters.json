@@ -690,7 +690,30 @@
     }
   },
   {
-    "title": " \t non-breaking space\n  ",
+    "title": " \t narrow non-breaking space\n  thin no break space",
+    "subtitle": "U+202F",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "\u202F",
+    "text": {
+      "copy": ""
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u202F",
+            "subtitle": "\\u202F → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x202F;",
+            "subtitle": "&#x202F; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": " \t non-breaking space\n  no break space",
     "subtitle": "U+00A0",
     "icon": {
       "path": "empty.png"
