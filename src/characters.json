@@ -1127,6 +1127,29 @@
     }
   },
   {
+    "title": "¶ \t pilcrow sign\n pilcrow sign paragraph ¶ ",
+    "subtitle": "U+00B6",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "¶ ",
+    "text": {
+      "copy": "¶ "
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00b6",
+            "subtitle": "\\u00b6 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&para;",
+            "subtitle": "&para; → Copy HTML Entity"
+        }
+    }
+  },
+  {
     "title": "✓\t check mark\n check mark sign ✓",
     "subtitle": "U+2713",
     "icon": {
