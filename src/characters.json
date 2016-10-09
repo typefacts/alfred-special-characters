@@ -253,6 +253,52 @@
     }
   },
   {
+    "title": " \t em space\n ",
+    "subtitle": "U+2003",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": " ",
+    "text": {
+      "copy": " "
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2003",
+            "subtitle": "\\u2003 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&emsp;",
+            "subtitle": "&emsp; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": " \t en space\n ",
+    "subtitle": "U+2002",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": " ",
+    "text": {
+      "copy": " "
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2002",
+            "subtitle": "\\u2002 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&ensp;",
+            "subtitle": "&ensp; → Copy HTML Entity"
+        }
+    }
+  },
+  {
     "title": "“\t English double quote left\n English double quote left",
     "subtitle": "U+201C",
     "icon": {
@@ -368,6 +414,29 @@
     }
   },
   {
+    "title": " \t figure space\n number space",
+    "subtitle": "U+2007",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": " ",
+    "text": {
+      "copy": " "
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2007",
+            "subtitle": "\\u2007 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&numsp;",
+            "subtitle": "&numsp; → Copy HTML Entity"
+        }
+    }
+  },
+  {
     "title": "„\t German double quote left\n German double quote left",
     "subtitle": "U+201E",
     "icon": {
@@ -456,6 +525,29 @@
             "valid": true,
             "arg": "&lsquo;",
             "subtitle": "&lsquo; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": " \t hair space\n ",
+    "subtitle": "U+200A",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": " ",
+    "text": {
+      "copy": " "
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u200A",
+            "subtitle": "\\u200A → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&hairsp;",
+            "subtitle": "&hairsp; → Copy HTML Entity"
         }
     }
   },
@@ -851,6 +943,29 @@
     }
   },
   {
+    "title": " \t punctuation space\n ",
+    "subtitle": "U+2008",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": " ",
+    "text": {
+      "copy": " "
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2008",
+            "subtitle": "\\u2008 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&puncsp;",
+            "subtitle": "&puncsp; → Copy HTML Entity"
+        }
+    }
+  },
+  {
     "title": "→\t right arrow\n ",
     "subtitle": "U+2192",
     "icon": {
@@ -985,6 +1100,29 @@
             "valid": true,
             "arg": "&sup2;",
             "subtitle": "&sup2; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": " \t thin space\n ",
+    "subtitle": "U+2009",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": " ",
+    "text": {
+      "copy": " "
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2009",
+            "subtitle": "\\u2009 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&thinsp;",
+            "subtitle": "&thinsp; → Copy HTML Entity"
         }
     }
   },
