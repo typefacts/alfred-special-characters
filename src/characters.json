@@ -1539,5 +1539,28 @@
             "subtitle": "&#x200b; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
+  },
+  {
+    "title": "ẞ\t german capital sharp s / fallback with capital ss\n german capital sharp s / fallback with capital ss ẞ versal sz",
+    "subtitle": "U+1E9E",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "ẞ",
+    "text": {
+      "copy": "ẞ"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u1e9e",
+            "subtitle": "\\u1e9e → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x1e9e;",
+            "subtitle": "&#x1e9e; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
   }
 ]}
