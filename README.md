@@ -8,5 +8,5 @@ This workflow gives you access to these characters and pastes them right into yo
 ---
 
 ### This workflow was built by:
-Norman Posselt ([@norman_posselt](https://twitter.com/normanposselt))  
+Norman Posselt ([@normanposselt](https://twitter.com/normanposselt))  
 Frank Rausch ([@frankrausch](https://twitter.com/frankrausch))
