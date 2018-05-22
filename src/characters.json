@@ -1562,5 +1562,28 @@
             "subtitle": "&#x1e9e; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
+  },
+  {
+    "title": "°\t degree sign\n degree sign °",
+    "subtitle": "U+00B0",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "°",
+    "text": {
+      "copy": "°"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00b0",
+            "subtitle": "\\u00b0 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#176;",
+            "subtitle": "&#176; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
   }
 ]}
