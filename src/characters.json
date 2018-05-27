@@ -1541,7 +1541,7 @@
     }
   },
   {
-    "title": "ẞ\t german capital sharp s / fallback with capital ss\n german capital sharp s / fallback with capital ss ẞ versal sz",
+    "title": "ẞ\t german capital sharp s; fallback w/ capital ss\n german capital sharp s; fallback with capital ss ẞ versal sz eszett",
     "subtitle": "U+1E9E",
     "icon": {
       "path": "empty.png"
