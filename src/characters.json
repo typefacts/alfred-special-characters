@@ -1564,6 +1564,213 @@
     }
   },
   {
+    "title": "©\t copyright sign\n copyright ©",
+    "subtitle": "U+00A9",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "©",
+    "text": {
+      "copy": "©"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00A9",
+            "subtitle": "\\u00A9 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#xa9;",
+            "subtitle": "&#xa9; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "℗\t sound recording copyright sign\n sound recording copyright ℗",
+    "subtitle": "U+2117",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "℗",
+    "text": {
+      "copy": "℗"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2117",
+            "subtitle": "\\u2117 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2117;",
+            "subtitle": "&#x2117; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "№\t numero sign\n numero sign №",
+    "subtitle": "U+2116",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "№",
+    "text": {
+      "copy": "№"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2116",
+            "subtitle": "\\u2116 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2116;",
+            "subtitle": "&#x2116; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "℠\t service mark\n service mark sign ℠",
+    "subtitle": "U+2120",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "℠",
+    "text": {
+      "copy": "℠"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2120",
+            "subtitle": "\\u2120 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2120;",
+            "subtitle": "&#x2120; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "‰\t per mille\n per mille sign ‰",
+    "subtitle": "U+2030",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‰",
+    "text": {
+      "copy": "‰"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2030",
+            "subtitle": "\\u2030 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2030;",
+            "subtitle": "&#x2030; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "‱\t per ten thousand\n per ten thousand sign ‱",
+    "subtitle": "U+2031",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‱",
+    "text": {
+      "copy": "‱"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2031",
+            "subtitle": "\\u2031 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2031;",
+            "subtitle": "&#x2031; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "∑\t n-ary summation\n n-ary summation sign sum ∑",
+    "subtitle": "U+2031",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "∑",
+    "text": {
+      "copy": "∑"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2031",
+            "subtitle": "\\u2031 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2031;",
+            "subtitle": "&#x2031; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "℃\t Degree Celsius\n degree celsius ℃",
+    "subtitle": "U+2103",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "℃",
+    "text": {
+      "copy": "℃"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2103",
+            "subtitle": "\\u2103 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2103;",
+            "subtitle": "&#x2103; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "℉\t Degree Fahrenheit\n degree fahrenheit ℉",
+    "subtitle": "U+2109",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "℉",
+    "text": {
+      "copy": "℉"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2109",
+            "subtitle": "\\u2109 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2109;",
+            "subtitle": "&#x2109; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
     "title": "°\t degree sign\n degree sign °",
     "subtitle": "U+00B0",
     "icon": {
