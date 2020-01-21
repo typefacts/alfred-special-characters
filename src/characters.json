@@ -138,7 +138,7 @@
     }
   },
   {
-    "title": "•\t bold interpunct\n bold interpunct middot centered dot",
+    "title": "•\t bullet\n bold interpunct bullet point",
     "subtitle": "U+2022",
     "icon": {
       "path": "empty.png"
@@ -644,7 +644,7 @@
     }
   },
   {
-    "title": "·\t interpunct\n interpunct middot centered dot",
+    "title": "·\t middle dot\n interpunct middot centered dot middle dot",
     "subtitle": "U+2219",
     "icon": {
       "path": "empty.png"
