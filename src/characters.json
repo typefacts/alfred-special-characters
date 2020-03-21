@@ -1715,7 +1715,7 @@
         "alt": {
             "valid": true,
             "arg": "\\u2211",
-            "subtitle": "\\u2031 → Copy Hex Unicode"
+            "subtitle": "\\u2211 → Copy Hex Unicode"
         },
         "cmd": {
             "valid": true,
