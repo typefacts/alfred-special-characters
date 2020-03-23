@@ -622,7 +622,7 @@
   },
   {
     "title": "…\t horizontal ellipsis\n three dots leader",
-    "subtitle": "U+22EE",
+    "subtitle": "U+2026",
     "icon": {
       "path": "empty.png"
     },
