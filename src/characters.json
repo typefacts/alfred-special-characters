@@ -1703,7 +1703,7 @@
   },
   {
     "title": "∑\t n-ary summation\n n-ary summation sign sum ∑",
-    "subtitle": "U+2031",
+    "subtitle": "U+2211",
     "icon": {
       "path": "empty.png"
     },
@@ -1714,13 +1714,13 @@
     "mods": {
         "alt": {
             "valid": true,
-            "arg": "\\u2031",
-            "subtitle": "\\u2031 → Copy Hex Unicode"
+            "arg": "\\u2211",
+            "subtitle": "\\u2211 → Copy Hex Unicode"
         },
         "cmd": {
             "valid": true,
-            "arg": "&#x2031;",
-            "subtitle": "&#x2031; → Copy HTML Numeric Character Reference (Hex)"
+            "arg": "&#x2211;",
+            "subtitle": "&#x2211; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
