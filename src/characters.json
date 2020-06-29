@@ -322,6 +322,29 @@
     }
   },
   {
+    "title": "—\t em dash\n em dash",
+    "subtitle": "U+2014",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "—",
+    "text": {
+      "copy": "—"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2014",
+            "subtitle": "\\u2014 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&mdash;",
+            "subtitle": "&mdash; → Copy HTML Entity"
+        }
+    }
+  },
+  {
     "title": " \t em space\n ",
     "subtitle": "U+2003",
     "icon": {
@@ -341,6 +364,29 @@
             "valid": true,
             "arg": "&emsp;",
             "subtitle": "&emsp; → Copy HTML Entity"
+        }
+    }
+  },
+  {
+    "title": "–\t en dash\n en dash",
+    "subtitle": "U+2013",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "–",
+    "text": {
+      "copy": "–"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2013",
+            "subtitle": "\\u2013 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&ndash;",
+            "subtitle": "&ndash; → Copy HTML Entity"
         }
     }
   },
