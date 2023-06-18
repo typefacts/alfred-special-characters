@@ -1838,5 +1838,97 @@
             "subtitle": "&#176; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
+  },
+  {
+    "title": "»\t right-pointing double angle quotation mark\n right-pointing double angle quotation mark »", 
+    "subtitle": "U+00BB",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "»",
+    "text": {
+      "copy": "»"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00bb",
+            "subtitle": "\\u00bb → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#187;",
+            "subtitle": "&#187; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "«\t left-pointing double angle quotation mark\n left-pointing double angle quotation mark «", 
+    "subtitle": "U+00AB",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "«",
+    "text": {
+      "copy": "«"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00AB",
+            "subtitle": "\\u00AB → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#171;",
+            "subtitle": "&#171; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "‹\t single left-pointing angle quotation mark\n single left-pointing angle quotation mark ‹", 
+    "subtitle": "U+2039",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‹",
+    "text": {
+      "copy": "‹"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2039",
+            "subtitle": "\\u2039 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#8249;",
+            "subtitle": "&#8249; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "›\t single right-pointing angle quotation mark\n single right-pointing angle quotation mark ›", 
+    "subtitle": "U+203A",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "›",
+    "text": {
+      "copy": "›"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u203A",
+            "subtitle": "\\u203A → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#8250;",
+            "subtitle": "&#8250; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
   }
 ]}
