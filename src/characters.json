@@ -1840,7 +1840,7 @@
     }
   },
   {
-    "title": "»\t right-pointing guillemet quotation\n right-pointing guillemet quotation »", 
+    "title": "»\t right-pointing double guillemet quotation\n right-pointing double guillemet quotation »", 
     "subtitle": "U+00BB",
     "icon": {
       "path": "empty.png"
@@ -1863,7 +1863,7 @@
     }
   },
   {
-    "title": "«\t left-pointing guillemet quotation\n left-pointing guillemet quotation «", 
+    "title": "«\t left-pointing double guillemet quotation\n left-pointing double guillemet quotation «", 
     "subtitle": "U+00AB",
     "icon": {
       "path": "empty.png"
@@ -1886,7 +1886,7 @@
     }
   },
   {
-    "title": "‹\t single left-pointing angle quotation mark\n single left-pointing angle quotation mark ‹", 
+    "title": "‹\t left-pointing single guillemet quotation \n left-pointing single guillemet quotation  ‹", 
     "subtitle": "U+2039",
     "icon": {
       "path": "empty.png"
@@ -1909,7 +1909,7 @@
     }
   },
   {
-    "title": "›\t single right-pointing angle quotation mark\n single right-pointing angle quotation mark ›", 
+    "title": "›\t right-pointing single guillemet quotation\n right-pointing single guillemet quotation ›", 
     "subtitle": "U+203A",
     "icon": {
       "path": "empty.png"
