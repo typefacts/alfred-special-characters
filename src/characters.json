@@ -1840,7 +1840,7 @@
     }
   },
   {
-    "title": "»\t right-pointing double angle quotation mark\n right-pointing double angle quotation mark »", 
+    "title": "»\t right-pointing guillemet quotation\n right-pointing guillemet quotation »", 
     "subtitle": "U+00BB",
     "icon": {
       "path": "empty.png"
@@ -1863,7 +1863,7 @@
     }
   },
   {
-    "title": "«\t left-pointing double angle quotation mark\n left-pointing double angle quotation mark «", 
+    "title": "«\t left-pointing guillemet quotation\n left-pointing guillemet quotation «", 
     "subtitle": "U+00AB",
     "icon": {
       "path": "empty.png"
