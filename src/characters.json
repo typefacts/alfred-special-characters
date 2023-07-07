@@ -1930,5 +1930,28 @@
             "subtitle": "&#8250; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
+  },
+  {
+    "title": "­\t soft hyphen\n soft hyphen ­", 
+    "subtitle": "U+00AD",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "­",
+    "text": {
+      "copy": "­"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00AD",
+            "subtitle": "\\u00AD → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&shy;",
+            "subtitle": "&#8250; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
   }
 ]}

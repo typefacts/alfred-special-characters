@@ -146,7 +146,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.1.8</string>
+	<string>1.1.9</string>
 	<key>webaddress</key>
 	<string>http://typefacts.com</string>
 </dict>
