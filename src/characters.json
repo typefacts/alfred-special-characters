@@ -1953,5 +1953,28 @@
             "subtitle": "&#8250; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
-  }
+  },
+  {
+    "title": "­\t non-breaking hyphen\n non-breaking hyphen ­", 
+    "subtitle": "U+2011",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‑",
+    "text": {
+      "copy": "‑"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2011",
+            "subtitle": "\\u2011 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2011",
+            "subtitle": "&#x2011 → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
 ]}
