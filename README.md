@@ -5,6 +5,12 @@ This workflow gives you access to these characters and pastes them right into yo
 
 [Special Characters — An Alfred App Workflow on www.typefacts.com](http://typefacts.com/news/special-characters-an-alfred-app-workflow)
 
+## Compiling
+```bash
+py build-workflow.py -f -o . src/
+```
+You may need to install the Python dependencies via `pip`.
+
 ---
 
 ### This workflow was built by:

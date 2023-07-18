@@ -1838,5 +1838,143 @@
             "subtitle": "&#176; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
-  }
+  },
+  {
+    "title": "»\t right-pointing double guillemet quotation\n right-pointing double guillemet quotation »", 
+    "subtitle": "U+00BB",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "»",
+    "text": {
+      "copy": "»"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00bb",
+            "subtitle": "\\u00bb → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#187;",
+            "subtitle": "&#187; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "«\t left-pointing double guillemet quotation\n left-pointing double guillemet quotation «", 
+    "subtitle": "U+00AB",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "«",
+    "text": {
+      "copy": "«"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00AB",
+            "subtitle": "\\u00AB → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#171;",
+            "subtitle": "&#171; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "‹\t left-pointing single guillemet quotation \n left-pointing single guillemet quotation  ‹", 
+    "subtitle": "U+2039",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‹",
+    "text": {
+      "copy": "‹"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2039",
+            "subtitle": "\\u2039 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#8249;",
+            "subtitle": "&#8249; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "›\t right-pointing single guillemet quotation\n right-pointing single guillemet quotation ›", 
+    "subtitle": "U+203A",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "›",
+    "text": {
+      "copy": "›"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u203A",
+            "subtitle": "\\u203A → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#8250;",
+            "subtitle": "&#8250; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "­\t soft hyphen\n soft hyphen ­", 
+    "subtitle": "U+00AD",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "­",
+    "text": {
+      "copy": "­"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u00AD",
+            "subtitle": "\\u00AD → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&shy;",
+            "subtitle": "&shy; → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
+  {
+    "title": "‑\t non-breaking hyphen\n non-breaking hyphen ‑", 
+    "subtitle": "U+2011",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "‑",
+    "text": {
+      "copy": "‑"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u2011",
+            "subtitle": "\\u2011 → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x2011",
+            "subtitle": "&#x2011 → Copy HTML Numeric Character Reference (Hex)"
+        }
+    }
+  },
 ]}
