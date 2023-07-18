@@ -1955,7 +1955,7 @@
     }
   },
   {
-    "title": "­\t non-breaking hyphen\n non-breaking hyphen ­", 
+    "title": "‑\t non-breaking hyphen\n non-breaking hyphen ‑", 
     "subtitle": "U+2011",
     "icon": {
       "path": "empty.png"
