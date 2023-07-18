@@ -1950,7 +1950,7 @@
         "cmd": {
             "valid": true,
             "arg": "&shy;",
-            "subtitle": "&#8250; → Copy HTML Numeric Character Reference (Hex)"
+            "subtitle": "&shy; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
